@@ -1,0 +1,48 @@
+en: visiting the cinema
+ru: Поход в кино
+
+en: Hello, Susan. How do you feel about going to the movies today?
+en: Oh, great idea! I have not visited cinema for ages. I’ll go with pleasure. What cinema are we going to?
+en: As for me, I really like “The Stealth”. It's always very clean there, the sessions start on time, and the sound is fantastic. They say that they have installed a new sound system recently.
+en: Great. And what movie?
+en: Today they show several films. What kind of genre do you prefer? Comedy? Fantasy? Action?
+en: Honestly, I like melodramas more. But I will also watch comedy with pleasure. But I do not really like horror and militants.
+en: Great. Today they show a wonderful film. I think you'll like it. This is a romantic comedy "Midnight in Paris". Have you heard about it?
+en: Yes, I’ve recently watched the advertisement of this film, and I really liked the plot. What a coincidence that we will go to this film!
+en: And I have not seen any commercials. Can you describe what this film is about?
+en: Oh, this film is about one eccentric who was sure he was not born in his time and that he had to live a hundred years ago.
+en: And what happens to him?
+en: He went to France with his beloved woman, and got into the past. There he met many celebrities of the time, and did not want to go back.
+en: An interesting story. And do not you remember who the director of the picture is?
+en: Of course I do. Woody Allen. I love his films.
+en: Yes, he is really a tale nted director and screenwriter.
+en: And Owen Wilson plays the lead role.
+en: Really? Cool actor! I've seen a lot of his films and he always plays perfectly.
+en: I think, today we will see one more such wonderful film.
+en: The session starts at 7 pm. We can stop by for coffee before the start.
+en: Good idea.
+en: Then I'll come after you at 6.See you.
+en: I'm looking forward to it.
+
+ru: Привет, Сьюзан. Как ты относишься к тому, чтобы сходить сегодня в кино?
+ru: О, прекрасная идея! Сто лет не была в кино. С удовольствием схожу. А в какой кинотеатр мы пойдем?
+ru: Лично мне очень нравится кинотеатр «Стелс». Там всегда очень чисто, сеансы начинаются вовремя, а звук просто фантастический. Говорят, там установили недавно новую звуковую систему.
+ru: Замечательно. А какой фильм?
+ru: Сегодня показывают несколько фильмов. Ты какой жанр предпочитаешь? Комедия? Фэнтези? Боевик?
+ru: Честно говоря, я больше люблю мелодрамы. Но и комедию с удовольствием посмотрю. А вот ужасы и боевики я не очень люблю.
+ru: Отлично. Сегодня показывают прекрасный фильм. Думаю, тебе понравится. Это романтическая комедия «Полночь в Париже». Слышала?
+ru: Да, я недавно видела рекламу этого фильма, и мне очень понравился сюжет. Какое совпадение, что именно на этот фильм мы и пойдем!
+ru: А я не видел рекламы. Можешь описать, о чем этот фильм?
+ru: О, этот фильм про одного чудака, который был уверен, что родился не в свое время и что он должен был жить лет сто назад.
+ru: И что же с ним происходит?
+ru: Он поехал во Францию со своей любимой женщиной, и попал в прошлое. Там он встретился со многими знаменитостями того времени, и никак не хотел возвращаться обратно.
+ru: Интересный сюжет. А не помнишь, кто режиссер картины?
+ru: Конечно помню. Вуди Аллен. Обожаю его фильмы.
+ru: Да, он реально талантливый режиссер и сценарист.
+ru: А в главной роли играет Оуэн Уилсон.
+ru: Да ты что? Классный актер! Видел много его фильмов и всегда он играет прекрасно.
+ru: Думаю, сегодня мы увидим еще один такой замечательный фильм.
+ru: Сеанс начинается в 7 вечера. Мы можем зайти попить кофе перед началом.
+ru: Хорошая идея.
+ru: Тогда я зайду за тобой в 6. До встречи.
+ru: С нетерпением жду.
