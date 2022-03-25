@@ -1,0 +1,10 @@
+en: Hello!
+ru: Привет!
+
+en: Hello!
+en: My name is Viktoria.
+en: Nice to meet you!
+
+ru: Привет!
+ru: Меня зовут Виктория.
+ru: Приятно познакомиться!

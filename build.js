@@ -1,47 +1,16 @@
 const fs = require('fs');
-const sourceDir = './source/';
+var childProcess = require('child_process');
 
-let collection={};
+const sourceDir = "./source/";
 
-fs.readdirSync(sourceDir).forEach(file => {
-  const id=file.split('.')[0];
-
-  let stage=0;
-  let titles={};
-  let dialogues={};
-  fs.readFileSync(sourceDir+"/"+file, 'utf-8').split(/\r?\n/).forEach(function(line){
-      if(line==0){
-          stage=1;
-      }else {
-          const di=line.indexOf(":");
-          if(di<0)throw "Line without colon";
-          const lang=line.substring(0,di);
-          const text=line.substring(di+2);
-
-          if(stage==0){
-              titles[lang]=text;
-          }else if(stage==1){
-              if(dialogues[lang]==undefined){
-                  dialogues[lang]=[];
-              }
-              dialogues[lang].push(text);
-          }
-    }
-  });
-  
-  let lines=[];
-  for(const [lang,l] of Object.entries(dialogues)){
-      for(const [i,t] of Object.entries(l)){
-        if(lines.length<=i)
-            lines.push({});
-        lines[i][lang]=t;
-      }
+fs.readdirSync(sourceDir,{withFileTypes: true}).forEach(item => {
+  if(item.isDirectory)
+  {
+      const dir=sourceDir+item.name;
+      const opath="./output/"+item.name+".json";
+      childProcess.spawnSync('node',["build_dir",dir,opath],{
+        stdio: [ 'ignore', process.stdout, process.stderr ],
+      } );
   }
 
-  collection[id]={
-      titles: titles,
-      lines: lines,
-  }
 });
-
-fs.writeFileSync("dialogues.json",JSON.stringify(collection));
