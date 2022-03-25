@@ -29,9 +29,18 @@ fs.readdirSync(sourceDir).forEach(file => {
     }
   });
   
+  let lines=[];
+  for(const [lang,l] of Object.entries(dialogues)){
+      for(const [i,t] of Object.entries(l)){
+        if(lines.length<=i)
+            lines.push({});
+        lines[i][lang]=t;
+      }
+  }
+
   collection[id]={
       titles: titles,
-      dialogues: dialogues,
+      lines: lines,
   }
 });
 
