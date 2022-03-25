@@ -1,5 +1,6 @@
 en: Hello!
 ru: Привет!
+uk: Привіт!
 
 en: Hello!
 en: My name is Viktoria.
