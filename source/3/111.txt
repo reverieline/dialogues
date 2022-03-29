@@ -1,8 +1,0 @@
-en: visiting the cinema
-de: Поход в кино
-
-de: Hello, Susan. How do you feel about going to the movies today?
-de: Oh, great idea! I have not visited cinema for ages. I’ll go with pleasure. What cinema are we going to?
-
-en: As for me, I really like “The Stealth”. It's always very clean there, the sessions start on time, and the sound is fantastic. They say that they have installed a new sound system recently.
-en: Great. And what movie?
