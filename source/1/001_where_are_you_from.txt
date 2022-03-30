@@ -1,5 +1,6 @@
 en: Where do you come from?
 ru: Откуда ты?
+uk: Звідки ти?
 
 en: Hi! How are you?
 en: Hi! Thank you, good. And you?
