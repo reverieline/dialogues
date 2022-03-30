@@ -2,17 +2,28 @@ en: visiting the cinema
 ru: Поход в кино
 
 en: Hello, Susan. How do you feel about going to the movies today?
-en: Oh, great idea! I have not visited cinema for ages. I’ll go with pleasure. What cinema are we going to?
-en: As for me, I really like “The Stealth”. It's always very clean there, the sessions start on time, and the sound is fantastic. They say that they have installed a new sound system recently.
+en: Oh, great idea! I have not visited cinema for ages.
+en: I’ll go with pleasure. What cinema are we going to?
+en: As for me, I really like “The Stealth”.
+en: It's always very clean there, the sessions start on time, and the sound is fantastic.
+en: They say that they have installed a new sound system recently.
 en: Great. And what movie?
-en: Today they show several films. What kind of genre do you prefer? Comedy? Fantasy? Action?
-en: Honestly, I like melodramas more. But I will also watch comedy with pleasure. But I do not really like horror and militants.
-en: Great. Today they show a wonderful film. I think you'll like it. This is a romantic comedy "Midnight in Paris". Have you heard about it?
-en: Yes, I’ve recently watched the advertisement of this film, and I really liked the plot. What a coincidence that we will go to this film!
+en: Today they show several films.
+en: What kind of genre do you prefer? Comedy? Fantasy? Action?
+en: Honestly, I like melodramas more.
+en: But I will also watch comedy with pleasure.
+en: But I do not really like horror and militants.
+en: Great. Today they show a wonderful film.
+en: I think you'll like it.
+en: This is a romantic comedy "Midnight in Paris".
+en: Have you heard about it?
+en: Yes, I’ve recently watched the advertisement of this film, and I really liked the plot.
+en: What a coincidence that we will go to this film!
 en: And I have not seen any commercials. Can you describe what this film is about?
 en: Oh, this film is about one eccentric who was sure he was not born in his time and that he had to live a hundred years ago.
 en: And what happens to him?
-en: He went to France with his beloved woman, and got into the past. There he met many celebrities of the time, and did not want to go back.
+en: He went to France with his beloved woman, and got into the past.
+en: There he met many celebrities of the time, and did not want to go back.
 en: An interesting story. And do not you remember who the director of the picture is?
 en: Of course I do. Woody Allen. I love his films.
 en: Yes, he is really a tale nted director and screenwriter.
@@ -25,17 +36,28 @@ en: Then I'll come after you at 6.See you.
 en: I'm looking forward to it.
 
 ru: Привет, Сьюзан. Как ты относишься к тому, чтобы сходить сегодня в кино?
-ru: О, прекрасная идея! Сто лет не была в кино. С удовольствием схожу. А в какой кинотеатр мы пойдем?
-ru: Лично мне очень нравится кинотеатр «Стелс». Там всегда очень чисто, сеансы начинаются вовремя, а звук просто фантастический. Говорят, там установили недавно новую звуковую систему.
+ru: О, прекрасная идея! Сто лет не была в кино.
+ru: С удовольствием схожу. А в какой кинотеатр мы пойдем?
+ru: Лично мне очень нравится кинотеатр «Стелс».
+ru: Там всегда очень чисто, сеансы начинаются вовремя, а звук просто фантастический.
+ru: Говорят, там установили недавно новую звуковую систему.
 ru: Замечательно. А какой фильм?
-ru: Сегодня показывают несколько фильмов. Ты какой жанр предпочитаешь? Комедия? Фэнтези? Боевик?
-ru: Честно говоря, я больше люблю мелодрамы. Но и комедию с удовольствием посмотрю. А вот ужасы и боевики я не очень люблю.
-ru: Отлично. Сегодня показывают прекрасный фильм. Думаю, тебе понравится. Это романтическая комедия «Полночь в Париже». Слышала?
-ru: Да, я недавно видела рекламу этого фильма, и мне очень понравился сюжет. Какое совпадение, что именно на этот фильм мы и пойдем!
+ru: Сегодня показывают несколько фильмов.
+ru: Ты какой жанр предпочитаешь? Комедия? Фэнтези? Боевик?
+ru: Честно говоря, я больше люблю мелодрамы.
+ru: Но и комедию с удовольствием посмотрю.
+ru: А вот ужасы и боевики я не очень люблю.
+ru: Отлично. Сегодня показывают прекрасный фильм.
+ru: Думаю, тебе понравится.
+ru: Это романтическая комедия «Полночь в Париже».
+ru: Слышала о ней?
+ru: Да, я недавно видела рекламу этого фильма, и мне очень понравился сюжет.
+ru: Какое совпадение, что именно на этот фильм мы и пойдем!
 ru: А я не видел рекламы. Можешь описать, о чем этот фильм?
 ru: О, этот фильм про одного чудака, который был уверен, что родился не в свое время и что он должен был жить лет сто назад.
 ru: И что же с ним происходит?
-ru: Он поехал во Францию со своей любимой женщиной, и попал в прошлое. Там он встретился со многими знаменитостями того времени, и никак не хотел возвращаться обратно.
+ru: Он поехал во Францию со своей любимой женщиной, и попал в прошлое.
+ru: Там он встретился со многими знаменитостями того времени, и никак не хотел возвращаться обратно.
 ru: Интересный сюжет. А не помнишь, кто режиссер картины?
 ru: Конечно помню. Вуди Аллен. Обожаю его фильмы.
 ru: Да, он реально талантливый режиссер и сценарист.
