@@ -1,4 +1,4 @@
-en: visiting the cinema
+en: Visiting the cinema
 ru: Поход в кино
 
 en: Hello, Susan. How do you feel about going to the movies today?
