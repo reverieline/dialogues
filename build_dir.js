@@ -17,6 +17,9 @@ fs.readdirSync(sourceDir).forEach(file => {
       if(line==0){
           stage=1;
       }else {
+          line=line.replace(/\s{2,}/i,' ');
+          line=line.replace(/\s+$/i,'');
+
           const di=line.indexOf(":");
           if(di<0)throw "Line without colon";
           const lang=line.substring(0,di);
