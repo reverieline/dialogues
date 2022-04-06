@@ -1,0 +1,27 @@
+en: Complex sentence
+ru: Сложноподчиненное предложение
+ru: Складне речення
+
+en: I don’t know what you are talking about.
+en: I will give you candies if you clean your room.
+en: The girl you have just seen is my new classmate.
+en: Kate doesn’t know where she can buy this book and how much it will cost her.
+en: We were sure that Jack would win this competition and that he would become a new champion.
+en: Kate doesn’t know where she can buy the book she has to read.
+en: We were sure that Jack would win the competition he had been preparing for.
+
+ru: Я не знаю, о чем ты говоришь.
+ru: Я дам тебе конфеты, если ты уберешь в своей комнате.
+ru: Девочка, которую ты только что видел, – моя новая одноклассница.
+ru: Кейт не знает, где она может купить эту книгу и сколько она будет стоить.
+ru: Мы были уверены, что Джек выиграет эти соревнования и что он станет новым чемпионом.
+ru: Кейт не знает, где она может купить книгу, которую ей нужно прочитать.
+ru: Мы были уверены, что Джек выиграет соревнования, к которым он готовился.
+
+uk: Я не знаю, про що ти говориш.
+uk: Я дам тобі цукерки, якщо ти прибереш у кімнаті.
+uk: Дівчинка, яку ти щойно бачив, – моя нова однокласниця.
+uk: Кейт не знає, де вона може купити цю книгу і скільки вона коштуватиме.
+uk: Ми були певні, що Джек виграє ці змагання і що він стане новим чемпіоном.
+uk: Кейт не знає, де вона може купити книгу, яку їй потрібно прочитати.
+uk: Ми були певні, що Джек виграє змагання, до яких він готувався.
