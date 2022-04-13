@@ -1,0 +1,74 @@
+en: Future Continuous
+ru: Будущее длительное время 
+
+en: I shall be working here.
+en: He will be drinking tea with us.
+en: We will be dancing all night.
+en: I will not be working here.
+en: He will not be drinking tea with us.
+en: We will not be dancing all night.
+en: I won’t be working here.
+en: We shan’t be dancing all night.
+en: Will I be working here?
+en: Will he be drinking tea with us?
+en: Will we be dancing all night?
+en: What will I be doing here?
+en: Whom will he be drinking tea with?
+en: How long will we be dancing?
+en: I will be waiting for you here at 9 a.m. tomorrow.
+en: Tom will be playing football all day next Sunday.
+en: This time next week I will be flying to Berlin.
+en: I will be cooking dinner when she leaves.
+en: He will be washing the car when the postman comes.
+en: They will be watching the game when the rain starts.
+en: I will be making cocktails and Ann will be meeting guests.
+en: Jane will be listening to music, Jake will be reading a book.
+en: They will be sitting, watching movie and eating a pie.
+en: I saw the news. It will be raining tomorrow.
+en: We have made a deal. I shall be working instead of her next month.
+en: We have made an arrangement. I will be meeting her soon.
+en: She will be meeting Jake’s parents this evening.
+en: She is meeting Jake’s parents this evening.
+en: Lara will be flying to New York next morning.
+en: Lara is flying to New York next morning.
+en: I will be visiting the party tonight.
+en: I am visiting the party tonight.
+en: Will you be using this book for long?
+en: Will your sister be visiting you?
+en: Will she be staying here for long?
+
+ru: Я буду здесь работать.
+ru: Он будет пить с нами чай.
+ru: Мы будем танцевать всю ночь.
+ru: Я не буду работать здесь.
+ru: Он не будет пить с нами чай.
+ru: Мы не будем танцевать всю ночь.
+ru: Я не буду работать здесь.
+ru: Мы не будем танцевать всю ночь.
+ru: Я буду здесь работать?
+ru: Он будет пить с нами чай?
+ru: Мы будем танцевать всю ночь?
+ru: Что я буду здесь делать?
+ru: С кем он будет пить чай?
+ru: Как долго мы будем танцевать?
+ru: Я буду ждать тебя здесь завтра в девять утра.
+ru: Том будет играть в футбол всё следующее воскресенье.
+ru: В это же время на следующей неделе я буду лететь в Берлин.
+ru: Я буду готовить обед, когда она уйдет.
+ru: Он будет мыть машину, когда придет почтальон.
+ru: Они будут смотреть игру, когда начнется дождь.
+ru: Я буду делать коктейли, а Анна будет встречать гостей.
+ru: Джейн будет слушать музыку, а Джейк будет читать книгу.
+ru: Они будут сидеть, смотреть фильм и есть пирог.
+ru: Я смотрел новости: завтра будет дождь.
+ru: Мы заключили сделку. Я буду работать вместо неё в следующем месяце.
+ru: Мы договорились – я встречу ее скоро.
+ru: Она встречается с родителями Джейка сегодня вечером.
+ru: Она встречается с родителями Джейка сегодня вечером.
+ru: Лара летит в Нью-Йорк следующим утром.
+ru: Лара летит в Нью-Йорк следующим утром.
+ru: Я посещу вечеринку сегодня вечером.
+ru: Я посещу вечеринку сегодня вечером.
+ru: Ты долго будешь пользоваться этой книгой?
+ru: Твоя сестра проведает тебя?
+ru: Она долго будет здесь оставаться?
