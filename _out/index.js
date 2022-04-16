@@ -24,6 +24,7 @@ module.exports=[
       en: "Hello!",
       ru: "Привет!",
       uk: "Привіт!",
-    }
+    },
+    nb_lines: 3,
   },
 ];

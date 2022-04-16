@@ -7,6 +7,7 @@ module.exports=[
       ru: "Сложноподчиненное предложение",
       uk: "Складне речення",
     },
+    nb_lines: 7,
   },
   {
     type: 'file',
@@ -15,5 +16,6 @@ module.exports=[
       en: "Future Continuous",
       ru: "Будущее длительное время",
     },
+    nb_lines: 35,
   },
 ];
