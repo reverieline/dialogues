@@ -1,0 +1,27 @@
+en: Quick meet
+ru: Встреча
+uk: Зустріч
+
+en: Hi, Helen! How’s it going?
+en: Fine, thanks! And you?
+en: Just fine. Where are you off to?
+en: To the library.
+en: I’ve got a history exam next week.
+en: Oh, no. Well, I’ll see you later then. Good luck!
+en: Thanks. See you later.
+
+ru: Привет, Хелен! Как дела?
+ru: Хорошо, спасибо! А у тебя?
+ru: Отлично. Куда направляешься?
+ru: В библиотеку.
+ru: У меня экзамен по истории на следующей неделе. 
+ru: О нет. Что ж, до встречи. Удачи!
+ru: Спасибо. до встречи.
+
+uk: Привіт, Хелен! Як справи?
+uk: Чудово, дякую! А твої?
+uk: Добре. Куди ти йдешь?
+uk: До бібліотеки.
+uk: У мене екзамен з історії наступного тиждня.
+uk: О, ні. Ну, тоді побачимось пізніше. Хай щастить!
+uk: Дякую. Побачимось.

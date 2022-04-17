@@ -1,0 +1,33 @@
+en: Where do you come from?
+ru: Откуда ты?
+uk: Звідки ти?
+
+en: Hi! How are you?
+en: Hi! Thank you, good. And you?
+en: Also good. What’s your name?
+en: My name is Dasha. And what’s your name?
+en: My name is Martin. Nice to meet you. Today is my first day at school.
+en: Nice to meet you too. There is also my first day at school.
+en: Where are you from?
+en: I’m from Ukraine. And you?
+en: I’m from France. I’ve been living here for 2 months already.
+
+ru: Привет! Как у тебя дела?
+ru: Привет! Спасибо, хорошо. А у тебя?
+ru: Тоже хорошо. Как тебя зовут?
+ru: Меня зовут Даша. А тебя как зовут?
+ru: А меня Мартин. Приятно познакомиться. Сегодня мой первый день в школе.
+ru: Мне тоже приятно познакомиться. У меня тоже сегодня первый день в школе.
+ru: Откуда ты?
+ru: Я из Украины. А ты?
+ru: А я из Франции. Я живу здесь уже два месяца.
+
+uk: Привіт! Як твої справи?
+uk: Привіт! Дякую, добре. А твої?
+uk: Теж добре. Як тебе звати?
+uk: Моє ім'я Даша. А як звати тебе?
+uk: Мене звати Мартін. Радий познайомитись. Сьогодні мій перший день у школі.
+uk: Мені теж приємно познайомитись. Це також мій перший день у школі.
+uk: Ти звідки?
+uk: Я з України. А ти?
+uk: Я з Франції. Тут живу вже два місяця.
