@@ -18,4 +18,13 @@ module.exports=[
     },
     nb_lines: 35,
   },
+  {
+    type: 'file',
+    path:"002_future_in_the_past .txt",
+    title:{
+      en: "Future in the Past",
+      ru: "Будущее в прошедшем",
+    },
+    nb_lines: 26,
+  },
 ];

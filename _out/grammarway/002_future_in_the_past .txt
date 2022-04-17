@@ -1,0 +1,54 @@
+en: Future in the Past
+ru: Будущее в прошедшем
+en: I thought I should buy that dress.
+ru: Я думала, что куплю то платье.
+en: He wrote that he would be working on Monday.
+ru: Он написал, что будет работать в понедельник.
+en: She told me that the cake would be eaten soon.
+ru: Она сказала мне, что торт скоро съедят.
+en: I knew we should not be working next Saturday.
+ru: Я знала, что мы не будем работать в следующую субботу.
+en: He wrote that he would not go to New York next week.
+ru: Он писал, что не поедет в Нью-Йорк на следующей неделе.
+en: She told me that we shouldn’t work here.
+ru: Она сказала мне, что мы не будем работать здесь.
+en: I thought It wouldn’t be broken.
+ru: Я думала, что оно не сломается.
+en: Should I buy this dress?
+ru: Купила бы я это платье?
+en: Would he go to New York?
+ru: Он поехал бы в Нью-Йорк?
+en: Would that work be done soon?
+ru: Та работа могла бы быть сделана скоро?
+en: What would I buy?
+ru: Что я купила бы?
+en: Where would he go?
+ru: Куда он пошел бы?
+en: How good would she work here?
+ru: Как хорошо она работала бы здесь?
+en: Matt asked whether I should buy that dress.
+ru: Мэтт спросил, куплю ли я то платье.
+en: She was interested if that work would be done soon.
+ru: Она интересовалась, будет ли выполнена скоро та работа.
+en: I wondered when the book would be finished.
+ru: Меня интересовало, когда книга будет написана.
+en: I dreamt I would find his number.
+ru: Я мечтала, что найду его номер.
+en: We hoped we should have been living here for 20 years next month.
+ru: Мы надеялись, что к следующему месяцу мы проживем тут 20 лет.
+en: He thought he would be working next Thursday.
+ru: Он думал, что будет работать в следующий четверг.
+en: They said that book would have been finished by the end of this year.
+ru: Они сказали, что книга будет написана к концу этого года.
+en: We made a deal to go to Vegas together.
+en: I would buy the tickets and John would prepare some food.
+ru: Мы заключили сделку поехать в Вегас вместе.
+ru: Я куплю билеты, а Джон приготовит еду.
+en: She decided to find a new job.
+en: And I would help her with this challenge.
+ru: Она решила найти новую работу.
+ru: И я помогу ей в этом испытании.
+en: We arranged to find some new house.
+en: Hanna would be searching at the newspapers and I would be calling to agencies.
+ru: Мы договорились найти какой-то новый дом.
+ru: Ханна будет искать в газетах, а я позвоню в агентства.
