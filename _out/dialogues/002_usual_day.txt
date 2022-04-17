@@ -15,7 +15,7 @@ en: No, I prefer to travel by taxi.
 en: Where do you work and what do you do?
 en: I work at the tour agency.
 en: Every day I speak to clients and answer emails.
-en: My work is very interesting.  
+en: My work is very interesting.
 en: What do you do after work?
 en: After work I go home, I cook dinner, and then watch the news or read a book.
 
@@ -49,6 +49,7 @@ uk: Ні, я віддаю перевагу таксі.
 uk: Де ти працюєш і чим займаєшься?
 uk: Я працюю у турагенстві.
 uk: Щодня я спілкуюсь з клієнтами та відповідаю на електронні листи.
-uk: Моя робота дуже цікава.  
+uk: Моя робота дуже цікава.
 uk: Що ти робишь після роботи?
 uk: Після роботи я іду додому, готую вечерю та дивлюсь новини або читаю книжку.
+
