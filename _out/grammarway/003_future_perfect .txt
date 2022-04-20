@@ -1,0 +1,39 @@
+en: Future Perfect
+ru: Будущее завершенное время
+
+en: I shall have done this work by 5 o’clock tomorrow.
+ru: Я сделаю эту работу завтра к пяти.
+en: She will have bought these flowers before the beginning of the party.
+ru: Она купит эти цветы до начала вечеринки.
+en: They will have found the new actor by next week.
+ru: Они найдут нового актера к следующей неделе.​
+
+en: I will not have done this work by 5 o’clock tomorrow.
+ru: Я не сделаю эту работу завтра к пяти.
+en: They will not have found the new actor by next week.
+ru: Они не найдут нового актера к следующей недели.
+en: She won’t have bought these flowers before the beginning of the party.
+ru: Она не купит эти цветы до начала вечеринки.
+
+en: Will I have done this work by 5 o’clock tomorrow?
+ru: Я сделаю эту работу завтра к пяти часам?
+en: Will she have bought these flowers before the beginning of the party?
+ru: Она купит эти цветы до начала вечеринки?
+en: Will they have found the new actor by next week?
+ru: Они найдут нового актера к следующей неделе?
+
+en: What shall I have done by 5 o’clock tomorrow?
+ru: Что я сделаю завтра к пяти часам?
+en: When will she have bought these flowers?
+ru: Когда она купит эти цветы?
+en: Where will they have found a new actor by next week?
+ru: Где они найдут нового актера к следующей недели?
+
+en: I shall have worked as a teacher for 20 years by next March.
+ru: К следующему марту я проработаю учителем 20 лет.
+en: I will have found a new job by next month.
+ru: Я найду новую работу к следующему месяцу.
+en: She will have cleaned the room by the time you come back.
+ru: Она уберет комнату к тому времени, как ты вернешься.
+en: They won’t have bought this house until the end of the week.
+ru: Они не купят этот дом до конца недели.

@@ -52,3 +52,4 @@ en: We arranged to find some new house.
 en: Hanna would be searching at the newspapers and I would be calling to agencies.
 ru: Мы договорились найти какой-то новый дом.
 ru: Ханна будет искать в газетах, а я позвоню в агентства.
+

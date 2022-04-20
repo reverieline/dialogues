@@ -27,4 +27,14 @@ module.exports=[
     },
     nb_lines: 26,
   },
+  
+  {
+    type: 'file',
+    path:"003_future_perfect .txt",
+    title:{
+      en: "Future Perfect",
+      ru: "Будущее завершенное время",
+    },
+    nb_lines: 32,
+  },
 ];
